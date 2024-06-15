@@ -281,11 +281,11 @@ main > img{
    border-radius: 50%;
 }
 :root{
-    --violet:#be1fef;
+    --violet:#ffffff;
 }
 .info__title {
     font-family: 'Rubik Mono One';
-    color: #8a27a8;
+    color: #ffffff;
     font-size: 24px;
     margin-bottom: 20px;
     -webkit-text-fill-color: transparent;
